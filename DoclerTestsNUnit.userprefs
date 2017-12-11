@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{EDC96449-2285-41D1-B4AA-B782D01F5C91}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoclerTestsNUnit/PageObjects/WebDriverRun.cs">
+    <Files>
+      <File FileName="DoclerTestsNUnit/Test.cs" Line="8" Column="19" />
+      <File FileName="DoclerTestsNUnit/TestCases/UIBtnVerificationTestCase.cs" Line="29" Column="1" />
+      <File FileName="DoclerTestsNUnit/TestCases/FormVerificationTestCase.cs" Line="23" Column="25" />
+      <File FileName="DoclerTestsNUnit/PageObjects/HomePage.cs" Line="167" Column="15" />
+      <File FileName="DoclerTestsNUnit/PageObjects/WebDriverRun.cs" Line="9" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DoclerTestsNUnit" expanded="True">
+            <Node name="DoclerTestsNUnit" expanded="True">
+              <Node name="DoclerTestsNUnit" expanded="True">
+                <Node name="ErrorPageVerificationTestCase" expanded="True" />
+                <Node name="FormVerificationTestCase" expanded="True">
+                  <Node name="checkFormElementsAreDisplayed" expanded="True" />
+                </Node>
+                <Node name="TitleAndLogoTestCase" expanded="True">
+                  <Node name="clickOnHomeButtonAndCheckTitleAndLogoPresence" expanded="True">
+                    <Node name="clickOnHomeButtonAndCheckTitleAndLogoPresence(&quot;http://uitest.duodecadits.com/&quot;)" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DoclerTestsNUnit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

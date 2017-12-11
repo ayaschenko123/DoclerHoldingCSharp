@@ -1,0 +1,14 @@
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Debug/DoclerTestsNUnit.pdb
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Debug/DoclerTestsNUnit.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/obj/Debug/DoclerTestsNUnit.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/obj/Debug/DoclerTestsNUnit.pdb
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Debug/nunit.framework.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Debug/chromedriver
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Debug/WebDriver.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Debug/Microsoft.Web.XmlTransform.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Debug/NuGet.Core.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Debug/WebDriver.Support.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Debug/ICSharpCode.SharpZipLib.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Debug/Equip.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Debug/Selenium.WebDriver.Equip.dll

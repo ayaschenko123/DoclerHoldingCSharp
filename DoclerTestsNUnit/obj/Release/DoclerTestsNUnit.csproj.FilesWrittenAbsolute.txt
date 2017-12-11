@@ -1,0 +1,11 @@
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Release/DoclerTestsNUnit.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/obj/Release/DoclerTestsNUnit.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Release/nunit.framework.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Release/WebDriver.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Release/Microsoft.Web.XmlTransform.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Release/NuGet.Core.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Release/ICSharpCode.SharpZipLib.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Release/WebDriver.Support.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Release/Equip.dll
+/Users/Artur/Projects/DoclerTestsNUnit/DoclerTestsNUnit/bin/Release/Selenium.WebDriver.Equip.dll
